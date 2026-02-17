@@ -1,0 +1,37 @@
+=======================================================================
+MAASive Project License & Funding Acknowledgment
+=======================================================================
+
+Project: MAASive: MANUFACTURING AS A SERVICE TO INCREASE RESILIENCE IN VALUE NETWORKS
+Grant Agreement ID:  101138040
+Copyright (c) 2026 MAASive
+
+FUNDING ACKNOWLEDGMENT:
+This project has received funding from the European Union’s Horizon Europe 
+research and innovation programme under grant agreement No 101138040.
+
+DISCLAIMER:
+Funded by the European Union. Views and opinions expressed are however 
+those of the author(s) only and do not necessarily reflect those of the 
+European Union or the European Research Executive Agency (REA). Neither 
+the European Union nor the granting authority can be held responsible 
+for them.
+
+-----------------------------------------------------------------------
+LICENSE: Creative Commons Attribution 4.0 International (CC BY 4.0)
+-----------------------------------------------------------------------
+
+The MAASive project files in this repository are licensed under the 
+Creative Commons Attribution 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material for any purpose, 
+  even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit as follows: 
+  "MAASive Project (https://github.com/MAASiveProject/MAASive), funded by the European Union under 
+  Grant Agreement 101138040."
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
